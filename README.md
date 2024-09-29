@@ -49,7 +49,6 @@ Before you begin, ensure you have met the following requirements:
    npm run dev
    ```
 
-5. Open your browser and visit `http://localhost:5173` to view the application.
 
 ## Usage
 
@@ -60,16 +59,6 @@ After starting the application, you can:
 - Track customer information and their order history
 - Generate various reports for business insights
 - Adjust settings and company information
-
-## Contributing
-
-Contributions to this project are welcome. To contribute:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
